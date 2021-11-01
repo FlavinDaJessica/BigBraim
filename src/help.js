@@ -1,11 +1,10 @@
 const help = (prefix) => {
 	return `
-「 *Big Braim* 」
+「 *Tio Flavin Bot* 」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Brayan
-  ❏ Como instalar o BOT: https://youtu.be/M4fPhiIqhzA
+  ❏ Criador : Tio Flavin
 
 ◪ *SOBRE*
   │
