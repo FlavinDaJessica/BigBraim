@@ -1,5 +1,5 @@
 const brayanmenu = (prefix, pushname) => {
-    return `◪ *Comandos do Brayan*
+    return `◪ *Comandos do TioFlavin*
     │
     ├─ ❏ ${prefix}setprefix
     ├─ ❏ ${prefix}block
@@ -9,4 +9,4 @@ const brayanmenu = (prefix, pushname) => {
 
 }
 
-exports.brayanmenu = brayanmenu
+exports.tioflavin = tioflain
