@@ -1,4 +1,4 @@
-const brayanmenu = (prefix, pushname) => {
+const tioflavin = (prefix, pushname) => {
     return `◪ *Comandos do TioFlavin*
     │
     ├─ ❏ ${prefix}setprefix
